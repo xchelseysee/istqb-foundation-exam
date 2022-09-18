@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	color: #333;
+	line-height: 150%;
+}
+
+header{
+	font-size: 50px;
+	line-height: 50px;
+	color:#000;
+	border-style: double;
+	border-color: coral;
+	background-color: coral;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	padding: 40px;
+}
+
+h1{
+	font-size: 30px;
+	line-height: 50px;
+	color:#000;
+	border-style: double;
+	border-color: coral;
+	background-color: coral;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	padding: 40px;
+}
+
+.questionSection{
+	border-style: double;
+	border-color: coral;
+	background-color: floralwhite;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+
+.question{
+	font-weight: 600px;
+	color: #000;
+}
+.answers {
+  margin-bottom: 20px;
+	color: #000;
+}
+.answers label{
+  display: block;
+}
+#submit{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: lightcoral;
+	color: #000;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+#submit:hover{
+	background-color: #38a;
+}
+
+button {
+	color: black;
+	background-color: coral;
+	padding: 10px;
+	font-size: 30px;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+	text-decoration: none;
+	border-color: black;
+	border-style: double;
+	padding: 5px;
+	background-color: coral;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: coral;
+	background-color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+nav {
+	padding-top: 20px;
+}
