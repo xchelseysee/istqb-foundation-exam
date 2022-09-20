@@ -119,6 +119,146 @@
         d: "long term, short term"
       },
       correctAnswer: "b"
+    },
+    {
+      question: "6. These types of reviews are characterized by not following a defined process and not having formal documented output.",
+      answers: {
+        a: "Formal",
+        b: "Static",
+        c: "Dynamic",
+        d: "Informal"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "7. These types of reviews are characterized by team participation, documented results of the review, and documented procedures for conducting the review.",
+      answers: {
+        a: "Formal",
+        b: "Static",
+        c: "Dynamic",
+        d: "Informal"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "8. T/F - The formality of a review process is related to factors such as the software development lifecycle model, the maturity of the development process, the complexity of the work product to be reviewed, any legal or regulatory requirements, and/or the need for an audit trail.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "9. T/F - The focus of a review depends on the agreed objectives of the review (e.g., finding defects, gaining understanding, educating participants such as testers and new team members, or discussing and deciding by consensus).",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "10. The review process comprises the following main activities:",
+      answers: {
+        a: "Planning, review of codes from beginning to end, issue communication, documentation.",
+        b: "Planning, initial review, individual review, issue communication and analysis, fixing and reporting.",
+        c: "Planning, initial review, individual review, issue communication and analysis.",
+        d: "Initial review, planning, individual review, fixing and reporting defects, research."
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "11. A typical formal review will include the roles below:",
+      answers: {
+        a: "Project Manager, Scrum Master, Lead Developer, and Lead Tester.",
+        b: "Project Manager, Author, Review Leader, Tester individuals, and a Moderator.",
+        c: "Author, Management, Facilitator, Review Leader, Reviewers, and Scribe.",
+        d: "Author, Scrum Master, Scribe, and Reviewers."
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "12. T/F - One person may never play more than one role in a review.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "13. T/F - With the advent of tools to support the review process, especially the logging of defects, open points, and decisions, there is often no need for a scribe.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "14. The following lists the four most common types of reviews and their associated attributes.",
+      answers: {
+        a: "Formal Review, Walkthrough, Technical Review, and Inspection.",
+        b: "Formal Review, Informal Review, Walkthrough, and Technical Review.",
+        c: "Informal Review, Formal Review, Walkthrough, Inspection.",
+        d: "Informal Review, Walkthrough, Technical Review, and Inspection."
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "15. ",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "16. This review technique is needs little preparation and is highly dependent on reviewer skills and may lead to many duplicate issues being reported by different reviewers.",
+      answers: {
+        a: "Perspective-based",
+        b: "Scenarios and dry runs",
+        c: "Checklist-based",
+        d: "Ad hoc"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "17. This review technique is a systematic technique. The reviewers detect issues based on checklists that are distributed at review initiation.",
+      answers: {
+        a: "Perspective-based",
+        b: "Scenarios and dry runs",
+        c: "Checklist-based",
+        d: "Ad hoc"
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "18. In this review technique, reviewers are provided with structured guidelines on how to read through the work product.",
+      answers: {
+        a: "Ad hoc",
+        b: "Checklist-based",
+        c: "Role-based",
+        d: "Scenarios and dry runs"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "19. In this review technique, the reviewers take on different stakeholder viewpoints in individual reviewing. Typical stakeholder viewpoints include end user, marketing, designer, tester, or operations. Using different stakeholder viewpoints leads to more depth in individual reviewing with less duplication of issues across reviewers.",
+      answers: {
+        a: "Ad hoc",
+        b: "Checklist-based",
+        c: "Role-based",
+        d: "Perspective-based"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "20.This review technique have the reviewers evaluate the work product from the perspective of individual stakeholder roles. Typical roles include specific end user types (experienced, inexperienced, senior, child, etc.), and specific roles in the organization (user administrator, system administrator, performance tester, etc.).",
+      answers: {
+        a: "Ad hoc",
+        b: "Checklist-based",
+        c: "Role-based",
+        d: "Scenarios and dry runs"
+      },
+      correctAnswer: "c"
     }
   ];
 
