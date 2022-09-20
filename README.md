@@ -15,3 +15,4 @@ Questions will be added to the exam as I read through the ISTQB Foundation sylla
 - 9/16 Sections 2.2, 2.3
 - 9/17 Sections 2.4, 3.1
 - 9/19 Sections 3.2, 4.1
+- 9/20 Sections 4.2, 4.3, 4.4
