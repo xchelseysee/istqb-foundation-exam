@@ -633,7 +633,7 @@
       correctAnswer: "b. "
     },
     {
-      question: "The evaluation of exit criteria for test execution as part of a given test level may include all of the following except for one. Which one is not included?",
+      question: "64. The evaluation of exit criteria for test execution as part of a given test level may include all of the following except for one. Which one is not included?",
       answers: {
         a: "Checking test results and logs against specified coverage criteria.",
         b: "Assessing the level of component or system quality based on test results and logs.",
@@ -841,7 +841,7 @@
       correctAnswer: "a"
     },
     {
-      question: "87. It is often a good practice to design high-level test caes, without concrete values for input data and expected results.",
+      question: "87. It is often a good practice to design high-level test case, without concrete values for input data and expected results.",
       answers: {
         a: "True",
         b: "False"
