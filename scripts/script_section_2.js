@@ -189,7 +189,7 @@
       correctAnswer: "a"
     },
     {
-      question: "14. T/F - Software development lifecycle models must be selected and adapted to the content of projet and product characteristics.",
+      question: "14. T/F - Software development lifecycle models must be selected and adapted to the content of a project and product characteristics.",
       answers: {
         a: "True",
         b: "False"
@@ -197,7 +197,7 @@
       correctAnswer: "a"
     },
     {
-      question: "15. An appropriate software development lifecyle model should be selected and adapted based a set of characteristics. Which one is not one of the characteristics?",
+      question: "15. An appropriate software development lifecyle model should be selected and adapted based on a set of characteristics. Which one is not one of the characteristics?",
       answers: {
         a: "The number of owners.",
         b: "The type of product being development.",
@@ -253,7 +253,7 @@
       correctAnswer: "d"
     },
     {
-      question: "21. ",
+      question: "21. T/F - Suitable test environment is not required for the test levels.",
       answers: {
         a: "True",
         b: "False"
