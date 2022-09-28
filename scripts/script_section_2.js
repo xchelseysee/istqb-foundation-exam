@@ -147,7 +147,7 @@
       correctAnswer: "a"
     },
     {
-      question: "9. Sequential development models deliver software that contains partial sets of features to the stakeholders and users, which can occur often as little as a few weeks or a few months.",
+      question: "9. T/F - Sequential development models deliver software that contains partial sets of features to the stakeholders and users, which can occur often as little as a few weeks or a few months.",
       answers: {
         a: "True",
         b: "False"
