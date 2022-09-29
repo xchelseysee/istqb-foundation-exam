@@ -501,7 +501,7 @@
       correctAnswer: "b"
     },
     {
-      question: "49. Objectives of acceptance tseeting include:",
+      question: "49. Objectives of acceptance testing include all of the followings except for one. WHich one is it?",
       answers: {
         a: "Establishing confidence in the quality of the system as a whole.",
         b: "Validating that the system is complete and will work as expected.",
@@ -519,7 +519,7 @@
       correctAnswer: "a"
     },
     {
-      question: "51. T/F - Acceptance testing can not be usted to satisfy legal or regulatory requirements or standards.",
+      question: "51. T/F - Acceptance testing can not be used to satisfy legal or regulatory requirements or standards.",
       answers: {
         a: "True",
         b: "False"
