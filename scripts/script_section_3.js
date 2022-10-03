@@ -185,7 +185,7 @@
       correctAnswer: "b"
     },
     {
-      question: "13. T/F - With the advent of tools to support the review process, especially the logging of defects, open points, and decisions, there is often no need for a scribe.",
+      question: "13. T/F - With the advance of tools to support the review process, especially the logging of defects, open points, and decisions, there is often no need for a scribe.",
       answers: {
         a: "True",
         b: "False"
@@ -203,7 +203,7 @@
       correctAnswer: "d"
     },
     {
-      question: "15. ",
+      question: "15. T/F - Review techniques can be used across review types.",
       answers: {
         a: "True",
         b: "False"
@@ -211,7 +211,7 @@
       correctAnswer: "a"
     },
     {
-      question: "16. This review technique is needs little preparation and is highly dependent on reviewer skills and may lead to many duplicate issues being reported by different reviewers.",
+      question: "16. This review technique needs little preparation and is highly dependent on reviewer skills and may lead to many duplicate issues being reported by different reviewers.",
       answers: {
         a: "Perspective-based",
         b: "Scenarios and dry runs",
