@@ -305,7 +305,7 @@
       correctAnswer: "b"
     },
     {
-      question: "25. This white-box test technique exercises the decisions in the code and tests the ode that is executed based on the decision outcomes. To do this, the test cases follow the control flows that occur from a decision point (e.g., for an IF statement, one for the true outcome and one for the false outcome; for a CASE statement, test cases would be required for all the possible outcomes, including the default outcome).",
+      question: "25. This white-box test technique exercises the decisions in the code and tests the code that is executed based on the decision outcomes. To do this, the test cases follow the control flows that occur from a decision point (e.g., for an IF statement, one for the true outcome and one for the false outcome; for a CASE statement, test cases would be required for all the possible outcomes, including the default outcome).",
       answers: {
         a: "Transition Testing and Coverage",
         b: "Statement Testing and Coverage",
