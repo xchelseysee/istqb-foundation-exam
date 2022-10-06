@@ -75,7 +75,7 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "1. T/F - A certain degree of independence often makes the tester more effective at finding defects due to differences between the author’s and the tester’s cognitive biases",
+      question: "1. T/F - A certain degree of independence often makes the tester more effective at finding defects due to differences between the author’s and the tester’s cognitive biases.",
       answers: {
         a: "True",
         b: "False"
@@ -322,7 +322,7 @@
         a: "Test influencing",
         b: "Test effort estimation",
         c: "Test correction",
-        d: "Test planning"
+        d: "Test planing"
       },
       correctAnswer: "b"
     },
@@ -350,7 +350,7 @@
       question: "31. What is the purpose of test monitoring?",
       answers: {
         a: "to keep track of the defects found and what is being fixed.",
-        b: "o gather information and provide feedback and visibility about rest activities.",
+        b: "to gather information and provide feedback and visibility about test activities.",
         c: "to gather information, create test plans, and collect data on defects.",
         d: "to gather information, keep track of defects and what is being fixed."
       },
@@ -387,7 +387,7 @@
       correctAnswer: "b"
     },
     {
-      question: "35. To properly support resting, configuration management may involve ensuring the following three out of four. Which one is not one of the four?",
+      question: "35. To properly support testing, configuration management may involve ensuring the following three out of four. Which one is not one of the four?",
       answers: {
         a: "All test items are uniquely identified, version controlled, tracked for changes, and related to each other.",
         b: "All items of testware are uniquely identified, version controlled, tracked for changes, related to each other and related to versions of the test item(s) so that traceability can be maintained throughout the test process.",
